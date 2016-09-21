@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Responsive utilities for React.js and Browsers, with support for the server",
   "main": "lib/responsive.js",
+  "homepage": "https://github.com/beijaflor-io/react-responsive-utils",
   "scripts": {
     "build": "babel ./src --out-dir ./lib",
     "prepublish": "npm run build",
