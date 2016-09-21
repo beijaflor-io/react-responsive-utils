@@ -1,6 +1,6 @@
 {
   "name": "react-responsive-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive utilities for React.js and Browsers, with support for the server",
   "main": "lib/responsive.js",
   "scripts": {
